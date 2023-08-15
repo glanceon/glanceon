@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Currently --> Freelancer <br/>
-Sharpening --> Testing <br/>
-Working on --> [siesta.solution](http://siesta.observer/) & [scavork](https://scavork.vercel.app/) <br/>
-
+Sharpening --> Typescript <br/>
+Working on --> [scavork](https://scavork.eu/) <br/>
+Working for --> [siesta.solution](http://siestasolution.com/en/) & [re-ca](https://re-ca.com/en/) <br/>
 
 ## Stats
 
