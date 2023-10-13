@@ -3,7 +3,7 @@
 Currently --> Freelancer <br/>
 Sharpening --> Typescript <br/>
 Working on --> [scavork](https://scavork.eu/) <br/>
-Working for --> [siesta.solution](http://siestasolution.com/en/) & [re-ca](https://re-ca.com/en/) <br/>
+Working for --> [re-ca](https://re-ca.com/en/) <br/>
 
 ## Stats
 
